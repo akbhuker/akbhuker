@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iakbhuker" target="blank"><img src="https://img.shields.io/twitter/follow/iakbhuker?logo=twitter&style=for-the-badge" alt="iakbhuker" /></a> </p>
 
-- 🌱 I’m currently learning **React, Node.Js**
+- 🌱 I’m currently learning **React Native and Node.Js**
 
 - 📫 How to reach me **akbhuker49@gmail.com**
 
