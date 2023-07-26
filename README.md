@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbhuker&label=Profile%20views&color=0e75b6&style=flat" alt="akbhuker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbhuker&theme=discord&row=1&column=6&no-bg=true" alt="akbhuker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbhuker&theme=discord&row=1&column=6&no-bg=true&margin-w=15" alt="akbhuker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iakbhuker" target="blank"><img src="https://img.shields.io/twitter/follow/iakbhuker?logo=twitter&style=for-the-badge" alt="iakbhuker" /></a> </p>
 
