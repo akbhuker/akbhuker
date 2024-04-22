@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iakbhuker" target="blank"><img src="https://img.shields.io/twitter/follow/iakbhuker?logo=twitter&style=for-the-badge" alt="iakbhuker" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I'm diving into the world of Node.js and MongoDB, honing my skills and delving deep into projects that utilize these technologies.
 
 - 📫 How to reach me **akbhuker49@gmail.com**
 
